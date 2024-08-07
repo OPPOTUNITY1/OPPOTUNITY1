@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\NullableValueTypes\bin\Debug\net8.0\NullableValueTypes.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\NullableValueTypes\bin\Debug\net8.0\NullableValueTypes.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\NullableValueTypes\bin\Debug\net8.0\NullableValueTypes.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\NullableValueTypes\bin\Debug\net8.0\NullableValueTypes.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\NullableValueTypes\bin\Debug\net8.0\NullableValueTypes.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\NullableValueTypes\obj\Debug\net8.0\NullableValueTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\NullableValueTypes\obj\Debug\net8.0\NullableValueTypes.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\NullableValueTypes\obj\Debug\net8.0\NullableValueTypes.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\NullableValueTypes\obj\Debug\net8.0\NullableValueTypes.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\NullableValueTypes\obj\Debug\net8.0\NullableValueTypes.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\NullableValueTypes\obj\Debug\net8.0\refint\NullableValueTypes.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\NullableValueTypes\obj\Debug\net8.0\NullableValueTypes.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\NullableValueTypes\obj\Debug\net8.0\NullableValueTypes.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\NullableValueTypes\obj\Debug\net8.0\ref\NullableValueTypes.dll

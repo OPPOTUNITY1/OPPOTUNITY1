@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadOnlyAndInitOnly\bin\Debug\net8.0\ReadOnlyAndInitOnly.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadOnlyAndInitOnly\bin\Debug\net8.0\ReadOnlyAndInitOnly.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadOnlyAndInitOnly\bin\Debug\net8.0\ReadOnlyAndInitOnly.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadOnlyAndInitOnly\bin\Debug\net8.0\ReadOnlyAndInitOnly.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadOnlyAndInitOnly\bin\Debug\net8.0\ReadOnlyAndInitOnly.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadOnlyAndInitOnly\obj\Debug\net8.0\ReadOnlyAndInitOnly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadOnlyAndInitOnly\obj\Debug\net8.0\ReadOnlyAndInitOnly.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadOnlyAndInitOnly\obj\Debug\net8.0\ReadOnlyAndInitOnly.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadOnlyAndInitOnly\obj\Debug\net8.0\ReadOnlyAndInitOnly.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadOnlyAndInitOnly\obj\Debug\net8.0\ReadOnlyAndInitOnly.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadOnlyAndInitOnly\obj\Debug\net8.0\refint\ReadOnlyAndInitOnly.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadOnlyAndInitOnly\obj\Debug\net8.0\ReadOnlyAndInitOnly.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadOnlyAndInitOnly\obj\Debug\net8.0\ReadOnlyAndInitOnly.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadOnlyAndInitOnly\obj\Debug\net8.0\ref\ReadOnlyAndInitOnly.dll

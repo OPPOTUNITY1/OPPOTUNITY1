@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadonlyMemberAndConstKeyword\bin\Debug\net8.0\ReadonlyMemberAndConstKeyword.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadonlyMemberAndConstKeyword\bin\Debug\net8.0\ReadonlyMemberAndConstKeyword.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadonlyMemberAndConstKeyword\bin\Debug\net8.0\ReadonlyMemberAndConstKeyword.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadonlyMemberAndConstKeyword\bin\Debug\net8.0\ReadonlyMemberAndConstKeyword.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadonlyMemberAndConstKeyword\bin\Debug\net8.0\ReadonlyMemberAndConstKeyword.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadonlyMemberAndConstKeyword\obj\Debug\net8.0\ReadonlyMemberAndConstKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadonlyMemberAndConstKeyword\obj\Debug\net8.0\ReadonlyMemberAndConstKeyword.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadonlyMemberAndConstKeyword\obj\Debug\net8.0\ReadonlyMemberAndConstKeyword.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadonlyMemberAndConstKeyword\obj\Debug\net8.0\ReadonlyMemberAndConstKeyword.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadonlyMemberAndConstKeyword\obj\Debug\net8.0\ReadonlyMemberAndConstKeyword.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadonlyMemberAndConstKeyword\obj\Debug\net8.0\refint\ReadonlyMemberAndConstKeyword.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadonlyMemberAndConstKeyword\obj\Debug\net8.0\ReadonlyMemberAndConstKeyword.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadonlyMemberAndConstKeyword\obj\Debug\net8.0\ReadonlyMemberAndConstKeyword.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReadonlyMemberAndConstKeyword\obj\Debug\net8.0\ref\ReadonlyMemberAndConstKeyword.dll

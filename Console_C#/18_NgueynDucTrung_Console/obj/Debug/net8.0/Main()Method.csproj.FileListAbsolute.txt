@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\bin\Debug\net8.0\Main()Method.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\bin\Debug\net8.0\Main()Method.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\bin\Debug\net8.0\Main()Method.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\bin\Debug\net8.0\Main()Method.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\bin\Debug\net8.0\Main()Method.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\Main()Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\Main()Method.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\Main()Method.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\Main()Method.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\Main()Method.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\refint\Main()Method.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\Main()Method.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\Main()Method.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\ref\Main()Method.dll

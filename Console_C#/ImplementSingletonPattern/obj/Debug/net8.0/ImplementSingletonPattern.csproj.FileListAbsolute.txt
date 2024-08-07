@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementSingletonPattern\bin\Debug\net8.0\ImplementSingletonPattern.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementSingletonPattern\bin\Debug\net8.0\ImplementSingletonPattern.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementSingletonPattern\bin\Debug\net8.0\ImplementSingletonPattern.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementSingletonPattern\bin\Debug\net8.0\ImplementSingletonPattern.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementSingletonPattern\bin\Debug\net8.0\ImplementSingletonPattern.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementSingletonPattern\obj\Debug\net8.0\ImplementSingletonPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementSingletonPattern\obj\Debug\net8.0\ImplementSingletonPattern.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementSingletonPattern\obj\Debug\net8.0\ImplementSingletonPattern.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementSingletonPattern\obj\Debug\net8.0\ImplementSingletonPattern.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementSingletonPattern\obj\Debug\net8.0\ImplementSingletonPattern.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementSingletonPattern\obj\Debug\net8.0\refint\ImplementSingletonPattern.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementSingletonPattern\obj\Debug\net8.0\ImplementSingletonPattern.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementSingletonPattern\obj\Debug\net8.0\ImplementSingletonPattern.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementSingletonPattern\obj\Debug\net8.0\ref\ImplementSingletonPattern.dll

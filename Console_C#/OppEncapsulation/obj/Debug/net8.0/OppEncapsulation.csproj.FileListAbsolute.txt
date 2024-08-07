@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppEncapsulation\bin\Debug\net8.0\OppEncapsulation.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppEncapsulation\bin\Debug\net8.0\OppEncapsulation.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppEncapsulation\bin\Debug\net8.0\OppEncapsulation.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppEncapsulation\bin\Debug\net8.0\OppEncapsulation.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppEncapsulation\bin\Debug\net8.0\OppEncapsulation.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppEncapsulation\obj\Debug\net8.0\OppEncapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppEncapsulation\obj\Debug\net8.0\OppEncapsulation.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppEncapsulation\obj\Debug\net8.0\OppEncapsulation.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppEncapsulation\obj\Debug\net8.0\OppEncapsulation.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppEncapsulation\obj\Debug\net8.0\OppEncapsulation.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppEncapsulation\obj\Debug\net8.0\refint\OppEncapsulation.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppEncapsulation\obj\Debug\net8.0\OppEncapsulation.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppEncapsulation\obj\Debug\net8.0\OppEncapsulation.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppEncapsulation\obj\Debug\net8.0\ref\OppEncapsulation.dll

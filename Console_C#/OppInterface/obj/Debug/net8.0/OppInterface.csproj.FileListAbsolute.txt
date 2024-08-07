@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppInterface\bin\Debug\net8.0\OppInterface.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppInterface\bin\Debug\net8.0\OppInterface.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppInterface\bin\Debug\net8.0\OppInterface.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppInterface\bin\Debug\net8.0\OppInterface.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppInterface\bin\Debug\net8.0\OppInterface.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppInterface\obj\Debug\net8.0\OppInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppInterface\obj\Debug\net8.0\OppInterface.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppInterface\obj\Debug\net8.0\OppInterface.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppInterface\obj\Debug\net8.0\OppInterface.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppInterface\obj\Debug\net8.0\OppInterface.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppInterface\obj\Debug\net8.0\refint\OppInterface.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppInterface\obj\Debug\net8.0\OppInterface.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppInterface\obj\Debug\net8.0\OppInterface.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OppInterface\obj\Debug\net8.0\ref\OppInterface.dll

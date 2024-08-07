@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\AnonymousType\obj\Debug\net8.0\AnonymousType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\AnonymousType\obj\Debug\net8.0\AnonymousType.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\AnonymousType\obj\Debug\net8.0\AnonymousType.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\AnonymousType\obj\Debug\net8.0\AnonymousType.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\AnonymousType\bin\Debug\net8.0\AnonymousType.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\AnonymousType\bin\Debug\net8.0\AnonymousType.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\AnonymousType\bin\Debug\net8.0\AnonymousType.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\AnonymousType\bin\Debug\net8.0\AnonymousType.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\AnonymousType\bin\Debug\net8.0\AnonymousType.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\AnonymousType\obj\Debug\net8.0\AnonymousType.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\AnonymousType\obj\Debug\net8.0\refint\AnonymousType.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\AnonymousType\obj\Debug\net8.0\AnonymousType.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\AnonymousType\obj\Debug\net8.0\AnonymousType.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\AnonymousType\obj\Debug\net8.0\ref\AnonymousType.dll

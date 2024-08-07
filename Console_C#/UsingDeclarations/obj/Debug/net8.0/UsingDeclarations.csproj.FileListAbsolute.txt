@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\UsingDeclarations\bin\Debug\net8.0\UsingDeclarations.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\UsingDeclarations\bin\Debug\net8.0\UsingDeclarations.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\UsingDeclarations\bin\Debug\net8.0\UsingDeclarations.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\UsingDeclarations\bin\Debug\net8.0\UsingDeclarations.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\UsingDeclarations\bin\Debug\net8.0\UsingDeclarations.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\UsingDeclarations\obj\Debug\net8.0\UsingDeclarations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\UsingDeclarations\obj\Debug\net8.0\UsingDeclarations.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\UsingDeclarations\obj\Debug\net8.0\UsingDeclarations.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\UsingDeclarations\obj\Debug\net8.0\UsingDeclarations.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\UsingDeclarations\obj\Debug\net8.0\UsingDeclarations.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\UsingDeclarations\obj\Debug\net8.0\refint\UsingDeclarations.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\UsingDeclarations\obj\Debug\net8.0\UsingDeclarations.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\UsingDeclarations\obj\Debug\net8.0\UsingDeclarations.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\UsingDeclarations\obj\Debug\net8.0\ref\UsingDeclarations.dll

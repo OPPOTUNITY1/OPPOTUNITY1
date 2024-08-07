@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\GenericMethods\bin\Debug\net8.0\GenericMethods.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\GenericMethods\bin\Debug\net8.0\GenericMethods.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\GenericMethods\bin\Debug\net8.0\GenericMethods.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\GenericMethods\bin\Debug\net8.0\GenericMethods.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\GenericMethods\bin\Debug\net8.0\GenericMethods.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\GenericMethods\obj\Debug\net8.0\GenericMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\GenericMethods\obj\Debug\net8.0\GenericMethods.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\GenericMethods\obj\Debug\net8.0\GenericMethods.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\GenericMethods\obj\Debug\net8.0\GenericMethods.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\GenericMethods\obj\Debug\net8.0\GenericMethods.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\GenericMethods\obj\Debug\net8.0\refint\GenericMethods.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\GenericMethods\obj\Debug\net8.0\GenericMethods.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\GenericMethods\obj\Debug\net8.0\GenericMethods.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\GenericMethods\obj\Debug\net8.0\ref\GenericMethods.dll

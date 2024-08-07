@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OPPWithC#\obj\Debug\net8.0\OPPWithC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OPPWithC#\obj\Debug\net8.0\OPPWithC#.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OPPWithC#\obj\Debug\net8.0\OPPWithC#.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OPPWithC#\obj\Debug\net8.0\OPPWithC#.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OPPWithC#\bin\Debug\net8.0\OPPWithC#.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OPPWithC#\bin\Debug\net8.0\OPPWithC#.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OPPWithC#\bin\Debug\net8.0\OPPWithC#.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OPPWithC#\bin\Debug\net8.0\OPPWithC#.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OPPWithC#\bin\Debug\net8.0\OPPWithC#.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OPPWithC#\obj\Debug\net8.0\OPPWithC#.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OPPWithC#\obj\Debug\net8.0\refint\OPPWithC#.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OPPWithC#\obj\Debug\net8.0\OPPWithC#.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OPPWithC#\obj\Debug\net8.0\OPPWithC#.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\OPPWithC#\obj\Debug\net8.0\ref\OPPWithC#.dll

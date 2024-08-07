@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\IsAndAsOperators\bin\Debug\net8.0\IsAndAsOperators.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\IsAndAsOperators\bin\Debug\net8.0\IsAndAsOperators.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\IsAndAsOperators\bin\Debug\net8.0\IsAndAsOperators.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\IsAndAsOperators\bin\Debug\net8.0\IsAndAsOperators.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\IsAndAsOperators\bin\Debug\net8.0\IsAndAsOperators.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\IsAndAsOperators\obj\Debug\net8.0\IsAndAsOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\IsAndAsOperators\obj\Debug\net8.0\IsAndAsOperators.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\IsAndAsOperators\obj\Debug\net8.0\IsAndAsOperators.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\IsAndAsOperators\obj\Debug\net8.0\IsAndAsOperators.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\IsAndAsOperators\obj\Debug\net8.0\IsAndAsOperators.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\IsAndAsOperators\obj\Debug\net8.0\refint\IsAndAsOperators.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\IsAndAsOperators\obj\Debug\net8.0\IsAndAsOperators.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\IsAndAsOperators\obj\Debug\net8.0\IsAndAsOperators.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\IsAndAsOperators\obj\Debug\net8.0\ref\IsAndAsOperators.dll

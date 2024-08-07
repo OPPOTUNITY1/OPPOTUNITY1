@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkiingWithTheList\bin\Debug\net8.0\WorkiingWithTheList.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkiingWithTheList\bin\Debug\net8.0\WorkiingWithTheList.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkiingWithTheList\bin\Debug\net8.0\WorkiingWithTheList.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkiingWithTheList\bin\Debug\net8.0\WorkiingWithTheList.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkiingWithTheList\bin\Debug\net8.0\WorkiingWithTheList.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkiingWithTheList\obj\Debug\net8.0\WorkiingWithTheList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkiingWithTheList\obj\Debug\net8.0\WorkiingWithTheList.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkiingWithTheList\obj\Debug\net8.0\WorkiingWithTheList.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkiingWithTheList\obj\Debug\net8.0\WorkiingWithTheList.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkiingWithTheList\obj\Debug\net8.0\WorkiingWithTheList.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkiingWithTheList\obj\Debug\net8.0\refint\WorkiingWithTheList.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkiingWithTheList\obj\Debug\net8.0\WorkiingWithTheList.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkiingWithTheList\obj\Debug\net8.0\WorkiingWithTheList.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkiingWithTheList\obj\Debug\net8.0\ref\WorkiingWithTheList.dll

@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\PassingParameters\bin\Debug\net8.0\PassingParameters.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\PassingParameters\bin\Debug\net8.0\PassingParameters.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\PassingParameters\bin\Debug\net8.0\PassingParameters.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\PassingParameters\bin\Debug\net8.0\PassingParameters.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\PassingParameters\bin\Debug\net8.0\PassingParameters.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\PassingParameters\obj\Debug\net8.0\PassingParameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\PassingParameters\obj\Debug\net8.0\PassingParameters.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\PassingParameters\obj\Debug\net8.0\PassingParameters.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\PassingParameters\obj\Debug\net8.0\PassingParameters.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\PassingParameters\obj\Debug\net8.0\PassingParameters.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\PassingParameters\obj\Debug\net8.0\refint\PassingParameters.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\PassingParameters\obj\Debug\net8.0\PassingParameters.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\PassingParameters\obj\Debug\net8.0\PassingParameters.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\PassingParameters\obj\Debug\net8.0\ref\PassingParameters.dll

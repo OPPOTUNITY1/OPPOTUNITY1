@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\StaticConstructor\bin\Debug\net8.0\StaticConstructor.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\StaticConstructor\bin\Debug\net8.0\StaticConstructor.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\StaticConstructor\bin\Debug\net8.0\StaticConstructor.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\StaticConstructor\bin\Debug\net8.0\StaticConstructor.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\StaticConstructor\bin\Debug\net8.0\StaticConstructor.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\StaticConstructor\obj\Debug\net8.0\StaticConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\StaticConstructor\obj\Debug\net8.0\StaticConstructor.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\StaticConstructor\obj\Debug\net8.0\StaticConstructor.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\StaticConstructor\obj\Debug\net8.0\StaticConstructor.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\StaticConstructor\obj\Debug\net8.0\StaticConstructor.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\StaticConstructor\obj\Debug\net8.0\refint\StaticConstructor.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\StaticConstructor\obj\Debug\net8.0\StaticConstructor.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\StaticConstructor\obj\Debug\net8.0\StaticConstructor.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\StaticConstructor\obj\Debug\net8.0\ref\StaticConstructor.dll

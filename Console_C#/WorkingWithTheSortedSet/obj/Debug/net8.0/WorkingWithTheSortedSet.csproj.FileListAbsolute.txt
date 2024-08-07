@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkingWithTheSortedSet\bin\Debug\net8.0\WorkingWithTheSortedSet.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkingWithTheSortedSet\bin\Debug\net8.0\WorkingWithTheSortedSet.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkingWithTheSortedSet\bin\Debug\net8.0\WorkingWithTheSortedSet.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkingWithTheSortedSet\bin\Debug\net8.0\WorkingWithTheSortedSet.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkingWithTheSortedSet\bin\Debug\net8.0\WorkingWithTheSortedSet.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkingWithTheSortedSet\obj\Debug\net8.0\WorkingWithTheSortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkingWithTheSortedSet\obj\Debug\net8.0\WorkingWithTheSortedSet.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkingWithTheSortedSet\obj\Debug\net8.0\WorkingWithTheSortedSet.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkingWithTheSortedSet\obj\Debug\net8.0\WorkingWithTheSortedSet.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkingWithTheSortedSet\obj\Debug\net8.0\WorkingWithTheSortedSet.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkingWithTheSortedSet\obj\Debug\net8.0\refint\WorkingWithTheSortedSet.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkingWithTheSortedSet\obj\Debug\net8.0\WorkingWithTheSortedSet.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkingWithTheSortedSet\obj\Debug\net8.0\WorkingWithTheSortedSet.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\WorkingWithTheSortedSet\obj\Debug\net8.0\ref\WorkingWithTheSortedSet.dll

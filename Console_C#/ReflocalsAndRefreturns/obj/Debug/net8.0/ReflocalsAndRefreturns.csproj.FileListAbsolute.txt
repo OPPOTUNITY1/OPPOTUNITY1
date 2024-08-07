@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReflocalsAndRefreturns\bin\Debug\net8.0\ReflocalsAndRefreturns.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReflocalsAndRefreturns\bin\Debug\net8.0\ReflocalsAndRefreturns.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReflocalsAndRefreturns\bin\Debug\net8.0\ReflocalsAndRefreturns.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReflocalsAndRefreturns\bin\Debug\net8.0\ReflocalsAndRefreturns.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReflocalsAndRefreturns\bin\Debug\net8.0\ReflocalsAndRefreturns.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReflocalsAndRefreturns\obj\Debug\net8.0\ReflocalsAndRefreturns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReflocalsAndRefreturns\obj\Debug\net8.0\ReflocalsAndRefreturns.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReflocalsAndRefreturns\obj\Debug\net8.0\ReflocalsAndRefreturns.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReflocalsAndRefreturns\obj\Debug\net8.0\ReflocalsAndRefreturns.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReflocalsAndRefreturns\obj\Debug\net8.0\ReflocalsAndRefreturns.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReflocalsAndRefreturns\obj\Debug\net8.0\refint\ReflocalsAndRefreturns.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReflocalsAndRefreturns\obj\Debug\net8.0\ReflocalsAndRefreturns.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReflocalsAndRefreturns\obj\Debug\net8.0\ReflocalsAndRefreturns.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ReflocalsAndRefreturns\obj\Debug\net8.0\ref\ReflocalsAndRefreturns.dll

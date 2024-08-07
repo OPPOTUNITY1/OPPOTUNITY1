@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementPrototypePattern\bin\Debug\net8.0\ImplementPrototypePattern.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementPrototypePattern\bin\Debug\net8.0\ImplementPrototypePattern.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementPrototypePattern\bin\Debug\net8.0\ImplementPrototypePattern.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementPrototypePattern\bin\Debug\net8.0\ImplementPrototypePattern.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementPrototypePattern\bin\Debug\net8.0\ImplementPrototypePattern.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementPrototypePattern\obj\Debug\net8.0\ImplementPrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementPrototypePattern\obj\Debug\net8.0\ImplementPrototypePattern.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementPrototypePattern\obj\Debug\net8.0\ImplementPrototypePattern.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementPrototypePattern\obj\Debug\net8.0\ImplementPrototypePattern.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementPrototypePattern\obj\Debug\net8.0\ImplementPrototypePattern.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementPrototypePattern\obj\Debug\net8.0\refint\ImplementPrototypePattern.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementPrototypePattern\obj\Debug\net8.0\ImplementPrototypePattern.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementPrototypePattern\obj\Debug\net8.0\ImplementPrototypePattern.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementPrototypePattern\obj\Debug\net8.0\ref\ImplementPrototypePattern.dll

@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\Null-ConditionOperator\bin\Debug\net8.0\Null-ConditionOperator.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\Null-ConditionOperator\bin\Debug\net8.0\Null-ConditionOperator.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\Null-ConditionOperator\bin\Debug\net8.0\Null-ConditionOperator.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\Null-ConditionOperator\bin\Debug\net8.0\Null-ConditionOperator.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\Null-ConditionOperator\bin\Debug\net8.0\Null-ConditionOperator.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\Null-ConditionOperator\obj\Debug\net8.0\Null-ConditionOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\Null-ConditionOperator\obj\Debug\net8.0\Null-ConditionOperator.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\Null-ConditionOperator\obj\Debug\net8.0\Null-ConditionOperator.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\Null-ConditionOperator\obj\Debug\net8.0\Null-ConditionOperator.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\Null-ConditionOperator\obj\Debug\net8.0\Null-ConditionOperator.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\Null-ConditionOperator\obj\Debug\net8.0\refint\Null-ConditionOperator.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\Null-ConditionOperator\obj\Debug\net8.0\Null-ConditionOperator.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\Null-ConditionOperator\obj\Debug\net8.0\Null-ConditionOperator.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\Null-ConditionOperator\obj\Debug\net8.0\ref\Null-ConditionOperator.dll

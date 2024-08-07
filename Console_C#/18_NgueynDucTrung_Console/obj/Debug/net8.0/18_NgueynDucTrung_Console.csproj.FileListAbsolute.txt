@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\bin\Debug\net8.0\18_NgueynDucTrung_Console.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\bin\Debug\net8.0\18_NgueynDucTrung_Console.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\bin\Debug\net8.0\18_NgueynDucTrung_Console.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\bin\Debug\net8.0\18_NgueynDucTrung_Console.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\bin\Debug\net8.0\18_NgueynDucTrung_Console.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\18_NgueynDucTrung_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\18_NgueynDucTrung_Console.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\18_NgueynDucTrung_Console.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\18_NgueynDucTrung_Console.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\18_NgueynDucTrung_Console.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\refint\18_NgueynDucTrung_Console.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\18_NgueynDucTrung_Console.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\18_NgueynDucTrung_Console.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\18_NgueynDucTrung_Console\obj\Debug\net8.0\ref\18_NgueynDucTrung_Console.dll

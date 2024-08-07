@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\LocalFunctionAndStaticLocalFunction\bin\Debug\net8.0\LocalFunctionAndStaticLocalFunction.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\LocalFunctionAndStaticLocalFunction\bin\Debug\net8.0\LocalFunctionAndStaticLocalFunction.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\LocalFunctionAndStaticLocalFunction\bin\Debug\net8.0\LocalFunctionAndStaticLocalFunction.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\LocalFunctionAndStaticLocalFunction\bin\Debug\net8.0\LocalFunctionAndStaticLocalFunction.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\LocalFunctionAndStaticLocalFunction\bin\Debug\net8.0\LocalFunctionAndStaticLocalFunction.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\LocalFunctionAndStaticLocalFunction\obj\Debug\net8.0\LocalFunctionAndStaticLocalFunction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\LocalFunctionAndStaticLocalFunction\obj\Debug\net8.0\LocalFunctionAndStaticLocalFunction.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\LocalFunctionAndStaticLocalFunction\obj\Debug\net8.0\LocalFunctionAndStaticLocalFunction.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\LocalFunctionAndStaticLocalFunction\obj\Debug\net8.0\LocalFunctionAndStaticLocalFunction.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\LocalFunctionAndStaticLocalFunction\obj\Debug\net8.0\LocalFunctionAndStaticLocalFunction.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\LocalFunctionAndStaticLocalFunction\obj\Debug\net8.0\refint\LocalFunctionAndStaticLocalFunction.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\LocalFunctionAndStaticLocalFunction\obj\Debug\net8.0\LocalFunctionAndStaticLocalFunction.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\LocalFunctionAndStaticLocalFunction\obj\Debug\net8.0\LocalFunctionAndStaticLocalFunction.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\LocalFunctionAndStaticLocalFunction\obj\Debug\net8.0\ref\LocalFunctionAndStaticLocalFunction.dll

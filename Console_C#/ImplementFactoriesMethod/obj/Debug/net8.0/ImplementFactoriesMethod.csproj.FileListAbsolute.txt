@@ -1,0 +1,14 @@
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementFactoriesMethod\bin\Debug\net8.0\ImplementFactoriesMethod.exe
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementFactoriesMethod\bin\Debug\net8.0\ImplementFactoriesMethod.deps.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementFactoriesMethod\bin\Debug\net8.0\ImplementFactoriesMethod.runtimeconfig.json
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementFactoriesMethod\bin\Debug\net8.0\ImplementFactoriesMethod.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementFactoriesMethod\bin\Debug\net8.0\ImplementFactoriesMethod.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementFactoriesMethod\obj\Debug\net8.0\ImplementFactoriesMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementFactoriesMethod\obj\Debug\net8.0\ImplementFactoriesMethod.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementFactoriesMethod\obj\Debug\net8.0\ImplementFactoriesMethod.AssemblyInfo.cs
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementFactoriesMethod\obj\Debug\net8.0\ImplementFactoriesMethod.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementFactoriesMethod\obj\Debug\net8.0\ImplementFactoriesMethod.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementFactoriesMethod\obj\Debug\net8.0\refint\ImplementFactoriesMethod.dll
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementFactoriesMethod\obj\Debug\net8.0\ImplementFactoriesMethod.pdb
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementFactoriesMethod\obj\Debug\net8.0\ImplementFactoriesMethod.genruntimeconfig.cache
+C:\Users\admin\Desktop\SU24\PRN212\Practice\18_NgueynDucTrung_Console\ImplementFactoriesMethod\obj\Debug\net8.0\ref\ImplementFactoriesMethod.dll

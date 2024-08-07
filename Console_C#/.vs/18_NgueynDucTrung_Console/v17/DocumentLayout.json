@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\admin\\Desktop\\SU24\\PRN212\\Practice\\18_NgueynDucTrung_Console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07026ACF-5EC2-436D-BCA0-2D7D3DC0D92A}|ImplementPrototypePattern\\ImplementPrototypePattern.csproj|c:\\users\\admin\\desktop\\su24\\prn212\\practice\\18_ngueynductrung_console\\implementprototypepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07026ACF-5EC2-436D-BCA0-2D7D3DC0D92A}|ImplementPrototypePattern\\ImplementPrototypePattern.csproj|solutionrelative:implementprototypepattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07026ACF-5EC2-436D-BCA0-2D7D3DC0D92A}|ImplementPrototypePattern\\ImplementPrototypePattern.csproj|c:\\users\\admin\\desktop\\su24\\prn212\\practice\\18_ngueynductrung_console\\implementprototypepattern\\bentley.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07026ACF-5EC2-436D-BCA0-2D7D3DC0D92A}|ImplementPrototypePattern\\ImplementPrototypePattern.csproj|solutionrelative:implementprototypepattern\\bentley.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07026ACF-5EC2-436D-BCA0-2D7D3DC0D92A}|ImplementPrototypePattern\\ImplementPrototypePattern.csproj|c:\\users\\admin\\desktop\\su24\\prn212\\practice\\18_ngueynductrung_console\\implementprototypepattern\\mustang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07026ACF-5EC2-436D-BCA0-2D7D3DC0D92A}|ImplementPrototypePattern\\ImplementPrototypePattern.csproj|solutionrelative:implementprototypepattern\\mustang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07026ACF-5EC2-436D-BCA0-2D7D3DC0D92A}|ImplementPrototypePattern\\ImplementPrototypePattern.csproj|c:\\users\\admin\\desktop\\su24\\prn212\\practice\\18_ngueynductrung_console\\implementprototypepattern\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07026ACF-5EC2-436D-BCA0-2D7D3DC0D92A}|ImplementPrototypePattern\\ImplementPrototypePattern.csproj|solutionrelative:implementprototypepattern\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bentley.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SU24\\PRN212\\Practice\\18_NgueynDucTrung_Console\\ImplementPrototypePattern\\Bentley.cs",
+              "RelativeDocumentMoniker": "ImplementPrototypePattern\\Bentley.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SU24\\PRN212\\Practice\\18_NgueynDucTrung_Console\\ImplementPrototypePattern\\Bentley.cs",
+              "RelativeToolTip": "ImplementPrototypePattern\\Bentley.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:52:28.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mustang.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SU24\\PRN212\\Practice\\18_NgueynDucTrung_Console\\ImplementPrototypePattern\\Mustang.cs",
+              "RelativeDocumentMoniker": "ImplementPrototypePattern\\Mustang.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SU24\\PRN212\\Practice\\18_NgueynDucTrung_Console\\ImplementPrototypePattern\\Mustang.cs",
+              "RelativeToolTip": "ImplementPrototypePattern\\Mustang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:48:18.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SU24\\PRN212\\Practice\\18_NgueynDucTrung_Console\\ImplementPrototypePattern\\Car.cs",
+              "RelativeDocumentMoniker": "ImplementPrototypePattern\\Car.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SU24\\PRN212\\Practice\\18_NgueynDucTrung_Console\\ImplementPrototypePattern\\Car.cs",
+              "RelativeToolTip": "ImplementPrototypePattern\\Car.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAcwBgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:40:06.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\Desktop\\SU24\\PRN212\\Practice\\18_NgueynDucTrung_Console\\ImplementPrototypePattern\\Program.cs",
+              "RelativeDocumentMoniker": "ImplementPrototypePattern\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\Desktop\\SU24\\PRN212\\Practice\\18_NgueynDucTrung_Console\\ImplementPrototypePattern\\Program.cs",
+              "RelativeToolTip": "ImplementPrototypePattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T04:39:52.307Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 372,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:39:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:41:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:42:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 258,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:40:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:41:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
